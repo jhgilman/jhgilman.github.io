@@ -45,7 +45,7 @@ redirect_from:
   </p>
 
   <p class="paper-meta">
-    Reject &amp; Resubmit, <strong><em>Quarterly Journal of Economics</em></strong>
+    Resubmitted, <strong><em>Quarterly Journal of Economics</em></strong>
   </p>
 
   <p class="paper-id">
