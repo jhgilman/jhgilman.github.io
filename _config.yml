@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Julia Gilman"
   avatar           : "profile.png"
-  bio              : "Economics PhD Student at MIT"
+  bio              : "Economics PhD Student at MIT<br><a class='sidebar-email' href='mailto:jhgilman@mit.edu'>jhgilman@mit.edu</a><br><a class='sidebar-cv-button' href='/files/cv.pdf'>CV</a>"
   location         : "Cambridge, MA"
   employer         :
   pubmed           : 
