@@ -129,7 +129,7 @@ I am a third-year Economics PhD Student at MIT and an NSF Graduate Research Fell
   </p>
 
   <p class="paper-meta">
-    Resubmitted, <strong><em>Quarterly Journal of Economics</em></strong>
+    Conditionally Accepted, <strong><em>Quarterly Journal of Economics</em></strong>
   </p>
 
   <p class="paper-id">
