@@ -125,7 +125,7 @@ I am a third-year Economics PhD Student at MIT and an NSF Graduate Research Fell
     <a href="/files/bcgr_inequality.pdf"><strong>How Does Wage Inequality Affect the Labor Movement?</strong></a>
     (with <a href="https://www.barbarabiasi.com/">Barbara Biasi</a>,
     <a href="https://zcullen.github.io/">Zoë Cullen</a>, and
-    <a href="https://ninaroussille.github.io/">Nina Roussille</a>), June 2025
+    <a href="https://ninaroussille.github.io/">Nina Roussille</a>)
   </p>
 
   <p class="paper-meta">
@@ -147,7 +147,7 @@ I am a third-year Economics PhD Student at MIT and an NSF Graduate Research Fell
   <p class="paper-title">
     <a href="/files/cgr_rights.pdf"><strong>Preferences for Rights</strong></a>
     (with <a href="https://sites.google.com/view/avivcaspi/home">Aviv Caspi</a> and
-    <a href="https://www.charlierafkin.com/">Charlie Rafkin</a>), December 2024
+    <a href="https://www.charlierafkin.com/">Charlie Rafkin</a>)
   </p>
 
   <button id="btn-abs1" class="abs-btn"
