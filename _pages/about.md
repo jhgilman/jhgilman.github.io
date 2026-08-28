@@ -129,7 +129,7 @@ I am a fourth-year Economics PhD Student at MIT and an NSF Graduate Research Fel
   </p>
 
   <p class="paper-meta">
-    Conditionally Accepted, <strong><em>Quarterly Journal of Economics</em></strong>
+    Accepted, <strong><em>Quarterly Journal of Economics</em></strong>
   </p>
 
   <p class="paper-id">
@@ -138,6 +138,7 @@ I am a fourth-year Economics PhD Student at MIT and an NSF Graduate Research Fel
 
   <button id="btn-abs2" class="abs-btn"
           onclick="toggleAbstract('abs2','btn-abs2')">Abstract +</button>
+  <a class="abs-btn" href="/files/bcgr_inequality_appendix.pdf">Appendix</a>
   <div id="abs2" class="abstract">
       This paper provides evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers facing hypothetical choices strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units.
   </div>
