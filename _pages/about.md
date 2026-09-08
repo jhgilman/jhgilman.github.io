@@ -1,16 +1,16 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "About"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a fourth-year Economics PhD Student at MIT and an NSF Graduate Research Fellow. My interests are in labor and behavioral economics. I graduated from Brown University with a B.S. in Applied Mathematics-Economics in 2020. After graduation, I worked at Morgan Stanley and then as a Predoctoral Fellow at Harvard Business School.
+I am a fourth-year PhD student in economics at MIT and an NSF Graduate Research Fellow. My interests are in labor and behavioral economics. Before MIT, I worked at Morgan Stanley and then as a Predoctoral Fellow at Harvard Business School. I graduated from Brown University with a B.S. in Applied Mathematics-Economics in 2020.
 
-<h1 class="section-heading">Working Papers</h1>
+<h1 class="section-heading">Publications</h1>
 
 <style>
   .paper {
@@ -42,19 +42,39 @@ I am a fourth-year Economics PhD Student at MIT and an NSF Graduate Research Fel
 
   .abs-btn {
     display: inline-block;
-    font-size: .9em;
-    padding: 0;
-    margin-top: .35rem;
-    margin-left: .4rem;
-    background: none;
-    border: none;
-    color: #555;
+    margin: .4rem .3rem 0 0;
+    padding: .18rem .6rem;
+    border: 1px solid #bbb;
+    border-radius: 3px;
+    background: #fff;
+    color: #444;
     cursor: pointer;
-    font-weight: 500;
+    font-family: inherit;
+    font-size: .8em;
+    font-weight: 600;
+    line-height: 1.3;
+    letter-spacing: .02em;
+    text-decoration: none;
+    vertical-align: middle;
   }
 
   .abs-btn:hover {
-    text-decoration: underline;
+    background: #f6f6f6;
+    border-color: #888;
+    color: #222;
+    text-decoration: none;
+  }
+
+  .abs-btn:focus-visible {
+    outline: 2px solid #777;
+    outline-offset: 2px;
+  }
+
+  a.abs-btn,
+  a.abs-btn:hover,
+  a.abs-btn:focus,
+  a.abs-btn:visited {
+    text-decoration: none !important;
   }
 
   .abstract {
@@ -129,7 +149,7 @@ I am a fourth-year Economics PhD Student at MIT and an NSF Graduate Research Fel
   </p>
 
   <p class="paper-meta">
-    Accepted, <strong><em>Quarterly Journal of Economics</em></strong>
+    Forthcoming (February 2027), <strong><em>Quarterly Journal of Economics</em></strong>
   </p>
 
   <p class="paper-id">
@@ -143,6 +163,8 @@ I am a fourth-year Economics PhD Student at MIT and an NSF Graduate Research Fel
       This paper provides evidence on how wage inequality among workers affects the labor movement using three complementary research designs: a vignette experiment with union organizers, a natural policy experiment that increased wage inequality among Wisconsin school teachers, and an information intervention during the 2023 Writers Guild of America strike. Across all studies, we find that inequality undermines union strength through multiple channels. First, workers with high individual bargaining power are more likely to withdraw support in unequal environments, preferring individual over collective bargaining. Second, union organizers facing hypothetical choices strategically respond to inequality in ways that may preserve membership but limit redistribution, such as shifting their campaign away from wages and choosing smaller, more homogeneous bargaining units.
   </div>
 </div>
+
+<h1 class="section-heading">Working Papers</h1>
 
 <div class="paper">
   <p class="paper-title">
@@ -162,7 +184,7 @@ I am a fourth-year Economics PhD Student at MIT and an NSF Graduate Research Fel
 function toggleAbstract(divId, btnId) {
   var x = document.getElementById(divId);
   var btn = document.getElementById(btnId);
-  if (x.style.display === "none") {
+  if (window.getComputedStyle(x).display === "none") {
     x.style.display = "block";
     btn.textContent = "Abstract –";
   } else {
