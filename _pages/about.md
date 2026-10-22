@@ -167,16 +167,14 @@ I am a fourth-year PhD student in economics at MIT and an NSF Graduate Research 
 
 <div class="paper">
   <p class="paper-title">
-    <a href="/files/cgr_rights.pdf"><strong>Preferences for Rights</strong></a>
+    <a href="/files/cgr_rights.pdf"><strong>Beyond Recipient Utility: Non-Welfarist Preferences and the Targeting of In-Kind Transfers</strong></a>
     (with <a href="https://sites.google.com/view/avivcaspi/home">Aviv Caspi</a> and
     <a href="https://www.charlierafkin.com/">Charlie Rafkin</a>)
   </p>
 
   <button id="btn-abs1" class="abs-btn"
           onclick="toggleAbstract('abs1','btn-abs1')">Abstract +</button>
-  <div id="abs1" class="abstract">
-    Political debates often invoke “rights” to justify public transfers (e.g., the right to health care), whereas economists use welfarist frameworks which evaluate transfers’ impacts based on how they affect people’s utility. We conduct real-stakes online experiments that isolate non-welfarist from welfarist motives, and find sizable non-welfarist preferences to provide health care and legal aid to the indigent. 73% of participants make choices which are incompatible with welfarism. Non-welfarist concerns are weaker but still pervasive with neutral comparison goods. Additional experiments highlight drivers of non-welfarist motives and a key policy implication: non-welfarist concerns make Social Welfare Functions less progressive.
-  </div>
+  <div id="abs1" class="abstract"> Political debates often invoke moral concerns to justify in-kind transfers, such as a right to health care. These concerns seem to go beyond how the goods affect recipients’ welfare, and appear to differ across goods. Economists, by contrast, typically evaluate transfers using "welfarist" frameworks that depend only on how goods affect recipients’ utility and do not permit good-specific redistributive concerns beyond such impacts. We perform real-stakes experiments that isolate non-welfarist from welfarist motives. We find sizable non-welfarist preferences to provide health care and legal aid to low-income recipients, and weaker non-welfarist preferences for comparison goods such as bus passes and YMCA memberships. In targeting experiments, participants favor more universal provision of lawyers and health care, even holding welfarist value fixed. We estimate a model that maps participants’ targeting choices into good-specific welfare weights. Goods associated with stronger moral concerns receive less progressive welfare weights and, consequently, are optimal to provide more universally than comparison goods with equal impacts on recipients’ utility.</div>
 </div>
 
 <script>
